@@ -239,7 +239,7 @@ Esse endpoint deverá atualizar apenas os dados do usuário de uma conta bancár
     "telefone": "71999998888",
     "email": "foo@bar3.com",
     "senha": "12345"
-{
+}
 ```
 
 
