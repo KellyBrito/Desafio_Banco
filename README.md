@@ -7,7 +7,7 @@ Sua primeira tarefa como desenvolvedor é criar uma API para um Banco Digital. E
 
 Seu papel é construir uma RESTful API que permita:
 
--   Criar conta bancária
+-   Criar conta bancária.
 -   Listar contas bancárias
 -   Atualizar os dados do usuário da conta bancária
 -   Excluir uma conta bancária
